@@ -208,11 +208,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "a3b25518cfd9ce8c",
+  "active": "a89eedd4cfc07cc7",
   "lastOpenFiles": [
-    "references",
+    "email-summarizer.skill",
+    "email-templates.skill",
+    "email-drafter.skill",
     "AGENTS.md",
     "CLAUDE.md",
+    "references",
     "Welcome.md"
   ]
 }
